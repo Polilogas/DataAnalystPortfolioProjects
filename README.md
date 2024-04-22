@@ -24,7 +24,7 @@ Please note that this project serves as a demonstration of my capabilities and m
 
 ## <img alt="Shows an illustrated folder." src="https://static-00.iconduck.com/assets.00/folders-app-github-folder-icon-2048x1898-tjbn8znz.png" width="25"></picture> Excel Project
 
-In this folder, I showcase my proficiency in data cleaning and analysis using Excel, albeit with certain limitations:
+In this folder, I showcase my proficiency in data cleaning and analysis using Excel, but with certain limitations:
 
 - Excel File: Contains cleaned data and pivot tables for analysis.
 
